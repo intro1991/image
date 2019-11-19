@@ -1,0 +1,2 @@
+(this.webpackJsonpimage_sender=this.webpackJsonpimage_sender||[]).push([[0],{4:function(e,t,n){e.exports=n(9)},9:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),c=n(2),s=n.n(c),i=n(3);var u=function(){var e=Object(a.useState)(null),t=Object(i.a)(e,2);return t[0],t[1],r.a.createElement("div",{className:"App"},r.a.createElement("input",{type:"file"}))};s.a.render(r.a.createElement(u,null),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.c245eac6.chunk.js.map
